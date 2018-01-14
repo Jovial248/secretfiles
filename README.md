@@ -1,2 +1,2 @@
 # secretfiles
-A website which contain world unknown secrets.
+A website which contain details of world conspiracies and unknown secrets.
